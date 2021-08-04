@@ -1,0 +1,1 @@
+This AltApi.dll works well with older tracking cameras, but does not work with the newer ones. If the project should run on older hardware, build it for x86 architecture, then manually replace the AltApi in the build folder with this one.
